@@ -4,7 +4,7 @@
 <h2> 👨‍💻 AWS Cloud Projects: </h2>
 
 - <b>Deploy a Wordpress Website on AWS</b>
-  - (https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wordpress Website](https://github.com/Battlecode93/Wordpress-website-on-AWS)
 
 
 
