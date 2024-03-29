@@ -6,6 +6,7 @@
 - <b>Deploy a Wordpress Website on AWS</b>
   - [Wordpress Website](https://github.com/Battlecode93/Wordpress-website-on-AWS)
   - [Continuous Delivery Pipline](https://github.com/Battlecode93/Continuous-Delivery-Pipeline-Project)
+  - [CI/CD Pipeline](https://github.com/Battlecode93/CICD-on-aws-project)
 
 
 
