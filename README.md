@@ -25,5 +25,5 @@
 
 
 - 🔭 I’m currently working on Aws cloud projects
-- 🌱 I’m currently learning Aws cloud
+- 🌱 I’m currently certified on AWS Cloud Practitioner and AWS Solutions Architect Associate
 -->
