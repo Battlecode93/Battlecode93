@@ -8,6 +8,7 @@
   - [Continuous Delivery Pipline](https://github.com/Battlecode93/Continuous-Delivery-Pipeline-Project)
   - [Static Website](https://github.com/Battlecode93/Static-website-project)
   - [Microservice on ECS](https://github.com/Battlecode93/Microservice-ECS-project)
+  - [Serverless Website](https://github.com/Battlecode93/Serverless-project)
 
 
 
@@ -26,4 +27,4 @@
 
 
 - 🔭 I’m currently working on Aws cloud projects developing skills.
-- 🌱 I hold certifications in AWS Cloud Practitioner and AWS Solutions Architect - Associate.
+- 🌱 
