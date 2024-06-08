@@ -27,4 +27,4 @@
 
 
 - 🔭 I’m currently working on Aws cloud projects developing skills.
-- 🌱 
+- 🌱 Currently learning amazon web services.
