@@ -26,7 +26,7 @@ As an aspiring AWS Cloud Engineer, I have successfully completed seven projects 
 
 
 <h2> 🤳 Connect with me:</h2>
-
+www.linkedin.com/in/corey-battle 
 
 
 
