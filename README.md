@@ -10,6 +10,7 @@
   - [Microservice on ECS](https://github.com/Battlecode93/Microservice-ECS-project)
   - [Serverless Website](https://github.com/Battlecode93/Serverless-project)
   - [Terraform CI/CD Pipeline](https://github.com/Battlecode93/Terraform-CICD-Project)
+  - [Autoscaling Website](https://github.com/Battlecode93/Autoscaling-Project)
 
 
 
