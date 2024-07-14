@@ -13,6 +13,7 @@ As an aspiring AWS Cloud Engineer, I have successfully completed seven projects 
   - [Serverless Website](https://github.com/Battlecode93/Serverless-project)
   - [Terraform CI/CD Pipeline](https://github.com/Battlecode93/Terraform-CICD-Project)
   - [Autoscaling Website](https://github.com/Battlecode93/Autoscaling-Project)
+  - [Serverless Architecture](https://github.com/Battlecode93/Serverless-Project2)
 
 
 
