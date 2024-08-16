@@ -16,6 +16,7 @@ As an aspiring AWS Cloud Engineer, I have successfully completed ten projects an
   - [Serverless Architecture](https://github.com/Battlecode93/Serverless-Project2)
   - [Kubernetes Voting Application](https://github.com/Battlecode93/Kubernetes-App-Project)
   - [Kubernetes 2048 Gaming Application](https://github.com/Battlecode93/Kubernetes-2048game-App)
+  - [Terraform Infrastructure](https://github.com/Battlecode93/Terraform-AWS-Project/tree/main)
 
 
 
