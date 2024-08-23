@@ -6,7 +6,7 @@ As an aspiring AWS Cloud Engineer, I have successfully completed ten projects an
 <h2> 👨‍💻 AWS Cloud Projects: </h2>
 
 
-  - [Wordpress Website](https://github.com/Battlecode93/Wordpress-website-on-AWS)
+  - [Wordpress Website](https://github.com/Battlecode93/Wordpress-website-on-AWS)                                -[Python & Lambda Configuration](https://github.com/Battlecode93/Python-Lambda-Project)
   - [Continuous Delivery Pipline](https://github.com/Battlecode93/Continuous-Delivery-Pipeline-Project)
   - [Static Website](https://github.com/Battlecode93/Static-website-project)
   - [Microservice on ECS](https://github.com/Battlecode93/Microservice-ECS-project)
