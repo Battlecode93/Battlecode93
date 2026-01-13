@@ -1,7 +1,5 @@
 <h1> Hello, I'm Corey! </h1>
 
-My expertise includes microservices architecture, serverless computing with AWS Lambda, and CI/CD principles. I have hands-on experience with VPCs, networking, and Infrastructure as Code (IaC) using Terraform. Through my projects, I have developed scalable, secure, and cost-efficient cloud solutions, adhering to best practices in automation and deployment. I am committed to ongoing learning to stay current with AWS innovations and enhance my technical proficiency.
-
 
 <h2> 👨‍💻 AWS Cloud Projects: </h2>
 
