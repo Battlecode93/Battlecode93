@@ -1,5 +1,6 @@
-<h1> Hello, I'm Corey! </h1>
+<h1> Hello, I'm Corey </h1>
 
+<p> I've built some projects dealing with real-world architectures and best practices. My work ranges from serverless applications, CI/CD pipelines, Terraform, and 3 tier-web applications. They are designed to demonstrate secure, scalable, and cost-efficient cloud solutions with clear documentation to reflect how they’d be implemented in production environments. </p>
 
 <h2> 👨‍💻 AWS Cloud Projects: </h2>
 
